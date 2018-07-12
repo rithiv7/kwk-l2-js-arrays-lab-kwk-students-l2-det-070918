@@ -2,4 +2,4 @@
 
 const drivers = [ "Milo" ,"Otis" , "Garfield" ]
 
-drivers.destructivelyAppendDriver("Milo")
+drivers.push('Milo', 'Otis', 'Garfield')
